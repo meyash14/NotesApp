@@ -1,6 +1,6 @@
 const fs = require ('fs')
 
-//List all notes
+//List all notes 1
 const listNotes = () =>
 {
     const notes =  loadNotes()
